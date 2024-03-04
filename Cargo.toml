@@ -1,5 +1,5 @@
 [package]
-name = "enumn"
+name = "enumn-fun"
 version = "0.1.13"
 authors = ["David Tolnay <dtolnay@gmail.com>"]
 categories = ["rust-patterns", "no-std", "no-std::no-alloc"]
